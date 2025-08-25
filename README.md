@@ -46,14 +46,14 @@ Kami percaya internet harus menjadi **ruang yang aman, bermanfaat, dan memanusia
 
 ## 📂 Struktur Proyek
 
-gampongnet/
-├── index.html          # Halaman utama (serverless)
-├── links.json          # Database link terverifikasi
-├── service-worker.js   # PWA support
-├── manifest.json       # PWA config
-├── README.md           # Dokumentasi (Anda sedang membacanya!)
-├── CONTRIBUTING.md     # Panduan berkontribusi
-└── LICENSE             # MIT License
+-gampongnet/
+-├── index.html          # Halaman utama (serverless)
+-├── links.json          # Database link terverifikasi
+-├── service-worker.js   # PWA support
+-├── manifest.json       # PWA config
+-├── README.md           # Dokumentasi (Anda sedang membacanya!)
+-├── CONTRIBUTING.md     # Panduan berkontribusi
+-└── LICENSE             # MIT License
 
 
 ---
@@ -129,7 +129,7 @@ Terima kasih kepada **semua kontributor, relawan, dan pendukung** yang telah mem
 - [Telegram Bot Admin](https://t.me/gampongnet_bot)
 
 ---
-> **"Teknologi tanpa nilai adalah pedang tanpa sarung. Mari gunakan kebijaksanaan dalam setiap baris kode yang kita tulis."**
+> **"Teknologi tanpa nilai ibarat mata yang tajam tanpa cahaya. Mari gunakan kebijaksanaan dalam setiap baris kode yang kita tulis."**
 > — *Tim GampongNet*
 
 🌱 **Bergabunglah dengan kami—untuk internet yang lebih baik, sekarang dan untuk generasi mendatang.**

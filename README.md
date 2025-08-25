@@ -1,4 +1,4 @@
-# 🌍 GampongNet: Mesin Pencari Positif untuk Internet yang Lebih Baik
+# 🌍 GampongNet: Kampung link website positif
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)

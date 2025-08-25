@@ -46,14 +46,14 @@ Kami percaya internet harus menjadi **ruang yang aman, bermanfaat, dan memanusia
 
 ## 📂 Struktur Proyek
 
--gampongnet/
--├── index.html          # Halaman utama (serverless)
--├── links.json          # Database link terverifikasi
--├── service-worker.js   # PWA support
--├── manifest.json       # PWA config
--├── README.md           # Dokumentasi (Anda sedang membacanya!)
--├── CONTRIBUTING.md     # Panduan berkontribusi
--└── LICENSE             # MIT License
+gampongnet/
+├── index.html          # Halaman utama (serverless)
+├── links.json          # Database link terverifikasi
+├── service-worker.js   # PWA support
+├── manifest.json       # PWA config
+├── README.md           # Dokumentasi (Anda sedang membacanya!)
+├── CONTRIBUTING.md     # Panduan berkontribusi
+└── LICENSE             # MIT License
 
 
 ---

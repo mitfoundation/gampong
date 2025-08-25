@@ -5,7 +5,13 @@
 [![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome-brightgreen)](CONTRIBUTING.md)
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue)](https://t.me/gampongnet_bot)
 
-**GampongNet** adalah **kampung link website positif, informatif, dan aman** yang dikurasi oleh tim ahli **MIT Aceh** sejak 2013. Kami membangun **mesin pencari alternatif** yang menyaring konten berdasarkan **nilai-nilai kearifan lokal, fitrah manusia, dan etika digital**—untuk melindungi akal, jiwa, generasi, dan properti dari konten berbahaya.
+**GampongNet** adalah **kampung link website positif, informatif, dan aman**.
+
+Platform ini merupakan situs direktori link website yang berisi kumpulan situs positif, informatif, dan aman yang dikurasi secara manual oleh tim ahli dari MIT Aceh sejak tahun 2013. Platform ini membangun sebuah mesin pencari yang tidak bergantung pada crawling bot otomatis, melainkan menyaring dan memilih konten secara seksama berdasarkan **nilai-nilai kearifan lokal, fitrah manusia, dan etika digital.** Tujuannya adalah untuk **melindungi akal, jiwa, generasi, dan properti masyarakat dari paparan konten berbahaya dan negatif.**
+
+Dengan pendekatan kurasi yang dilakukan oleh tim lintas profesi yang berkompeten, platform ini memastikan bahwa hanya situs yang benar-benar berkualitas dan mendukung nilai-nilai positif yang masuk dalam direktori. Model ini mirip dengan Scale AI yang mengutamakan kurasi dan pelabelan data manual oleh manusia untuk memastikan kualitas data, di mana aspek manusia sebagai penilai utama menjadi kunci keberhasilan dalam menjaga kualitas dan relevansi konten.
+
+Dengan demikian, platform ini menghadirkan alternatif yang kredibel dan terpercaya dalam menjelajah web, sekaligus mendukung literasi digital dan keamanan internet yang berkelanjutan untuk masyarakat luas.
 
 ---
 

@@ -52,14 +52,21 @@ Kami percaya internet harus menjadi **ruang yang aman, bermanfaat, dan memanusia
 
 ## 📂 Struktur Proyek
 
-gampongnet/
-├── index.html          # Halaman utama (serverless)
-├── links.json          # Database link terverifikasi
-├── service-worker.js   # Dukungan PWA
-├── manifest.json       # Konfigurasi PWA
-├── README.md           # Dokumentasi proyek
-└── LICENSE             # Lisensi MIT
+Berikut adalah struktur direktori dari proyek GampongNet:
 
+gampongnet/
+
+├── index.html          # Halaman utama aplikasi (serverless)
+
+├── links.json          # Database yang menyimpan daftar link terverifikasi dalam format JSON
+
+├── service-worker.js   # File Service Worker untuk mendukung fitur PWA (Progressive Web App)
+
+├── manifest.json       # File manifest untuk konfigurasi PWA (ikon, tema, dll.)
+
+├── README.md           # Dokumentasi proyek (Anda sedang membacanya!)
+
+└── LICENSE             # File lisensi (MIT License)
 
 ---
 
@@ -81,7 +88,7 @@ Kami **membuka pintu lebar-lebar** untuk kolaborasi! Berikut cara Anda dapat mem
 - Bantu terjemahkan **nilai-nilai kurasi** kami ke berbagai bahasa.
 
 ### 4. **Mendukung Pengembangan**
-- **Donasi**: [Dukung kami](#) untuk biaya operasi dan pengembangan.
+- **Donasi**: [Dukung kami]([#](https://lynk.id/mitfoundation/s/peor16747le2)) untuk biaya operasi dan pengembangan.
 - **Feedback**: Laporkan bug, usulkan fitur, atau berikan masukan di [Issues](https://github.com/mit-aceh/gampongnet/issues).
 
 ---

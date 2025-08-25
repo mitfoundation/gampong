@@ -88,7 +88,7 @@ Kami **membuka pintu lebar-lebar** untuk kolaborasi! Berikut cara Anda dapat mem
 - Bantu terjemahkan **nilai-nilai kurasi** kami ke berbagai bahasa.
 
 ### 4. **Mendukung Pengembangan**
-- **Donasi**: [Dukung kami]([#](https://lynk.id/mitfoundation/s/peor16747le2)) untuk biaya operasi dan pengembangan.
+- **Donasi**: [Dukung kami](https://lynk.id/mitfoundation/s/peor16747le2) untuk biaya operasi dan pengembangan.
 - **Feedback**: Laporkan bug, usulkan fitur, atau berikan masukan di [Issues](https://github.com/mit-aceh/gampongnet/issues).
 
 ---

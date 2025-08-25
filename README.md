@@ -27,11 +27,17 @@ Kami percaya internet harus menjadi **ruang yang aman, bermanfaat, dan memanusia
 4. **Media arus utama** seringkali memprioritaskan **klik dan sensasi** daripada kualitas informasi.
 
 ### Solusi Kami:
-✅ **Direktori situs terverifikasi** yang aman untuk semua kalangan.
-✅ **Standar kurasi ketat** berdasarkan **nilai-nilai luhur**: berketuhanan, mempersatukan, adil, beradab, dan bijaksana.
-✅ **Serverless & mudah dikelola**: Admin dapat memperbarui link melalui **Telegram Bot**, dan perubahan otomatis tampil di website.
-✅ **Data tersimpan dalam JSON**—sederhana, transparan, dan mudah dikembangkan.
-✅ **Open-source**—siapa pun dapat berkontribusi untuk **internet yang lebih bermartabat**.
+- ✅ **Direktori situs terverifikasi** yang aman untuk semua kalangan.
+- ✅ **Standar kurasi ketat** berdasarkan **nilai-nilai luhur**:
+  berketuhanan, mempersatukan, adil, beradab, dan bijaksana.
+- ✅ **Serverless & mudah dikelola**:
+  Admin dapat memperbarui link melalui **Telegram Bot**,
+  dan perubahan otomatis tampil di website.
+- ✅ **Data tersimpan dalam JSON** —
+  sederhana, transparan, dan mudah dikembangkan.
+- ✅ **Open-source** —
+  siapa pun dapat berkontribusi untuk **internet yang lebih bermartabat**.
+
 
 ---
 
@@ -49,11 +55,10 @@ Kami percaya internet harus menjadi **ruang yang aman, bermanfaat, dan memanusia
 gampongnet/
 ├── index.html          # Halaman utama (serverless)
 ├── links.json          # Database link terverifikasi
-├── service-worker.js   # PWA support
-├── manifest.json       # PWA config
-├── README.md           # Dokumentasi (Anda sedang membacanya!)
-├── CONTRIBUTING.md     # Panduan berkontribusi
-└── LICENSE             # MIT License
+├── service-worker.js   # Dukungan PWA
+├── manifest.json       # Konfigurasi PWA
+├── README.md           # Dokumentasi proyek
+└── LICENSE             # Lisensi MIT
 
 
 ---
